@@ -1,2 +1,2 @@
 # step-in-seat-Heating
-[![C/C++ CI](https://github.com/prani2298/step-in-seat-Heating/actions/workflows/c-build.yml/badge.svg)](https://github.com/prani2298/step-in-seat-Heating/actions/workflows/c-build.yml)
+[![C/C++ CI](https://github.com/janardhannaidu10/M2-Embedded_Project.git/actions/workflows/c-build.yml/badge.svg)](https://github.com/janardhannaidu10/M2-Embedded_Project.git/actions/workflows/c-build.yml)
